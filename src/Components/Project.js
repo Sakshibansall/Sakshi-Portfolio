@@ -20,7 +20,7 @@ function Project() {
             </a>
         </div>
         <div className="project-data">
-          <a href="" target="_blank" rel="noopener noreferrer">
+          <a href=" https://sakshibansall.github.io/TestingXperts/" target="_blank" rel="noopener noreferrer">
             <img src={testing} alt="" />
             <h3>TestingXperts Clone</h3>
             <p>Built a responsive TestingXperts clone using HTML, CSS, Bootstrap, and jQuery with Figma-to-code conversion and interactive UI features.</p>
