@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sakshi-Portfolio/static/css/main.568d8a68.css",
+    "main.js": "/Sakshi-Portfolio/static/js/main.6880a9ce.js",
+    "static/media/anime.png": "/Sakshi-Portfolio/static/media/anime.1fd93e6224b635eed6d2.png",
+    "static/media/book.png": "/Sakshi-Portfolio/static/media/book.2883ec22470ccf3bd4c0.png",
+    "static/media/Testingxperts.png": "/Sakshi-Portfolio/static/media/Testingxperts.a966744f00aa5f2fece0.png",
+    "static/media/photo.jpg": "/Sakshi-Portfolio/static/media/photo.ce15b7098f38ff7a6f57.jpg",
+    "static/media/a.png": "/Sakshi-Portfolio/static/media/a.eac0760421276260feac.png",
+    "static/media/mail.png": "/Sakshi-Portfolio/static/media/mail.955b2cde24358e47d365.png",
+    "static/media/linked.png": "/Sakshi-Portfolio/static/media/linked.766e76ad4faa7a83467b.png",
+    "index.html": "/Sakshi-Portfolio/index.html",
+    "main.568d8a68.css.map": "/Sakshi-Portfolio/static/css/main.568d8a68.css.map",
+    "main.6880a9ce.js.map": "/Sakshi-Portfolio/static/js/main.6880a9ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.568d8a68.css",
+    "static/js/main.6880a9ce.js"
+  ]
+}
