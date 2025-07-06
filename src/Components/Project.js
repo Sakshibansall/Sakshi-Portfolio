@@ -12,7 +12,7 @@ function Project() {
 
       <div className="project-items">
         <div className="project-data">
-          <a href="https://sakshibansall.github.io/Anime-Website-Bootstrap-/" target="_blank" rel="noopener noreferrer">
+          <a href=" https://sakshibansall.github.io/Anime-Website-Bootstrap/" target="_blank" rel="noopener noreferrer">
           <img src={Anime} alt="" />
           <h3>Anime Website</h3>
           <p>Developed a responsive website where users can interact and watch anime. Implement a clean UI using Bootstrap and
