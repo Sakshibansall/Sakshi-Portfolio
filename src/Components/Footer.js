@@ -6,7 +6,7 @@ function footer() {
       <div className="icons">
 
           <div>
-          <a href="#home" style={{fontSize:"15px"}}>
+          <a href="/" style={{fontSize:"15px"}}>
           <i className="fa-solid fa-arrow-up" style={{ fontSize: "20px" }}></i>&nbsp;
           BACK TO TOP</a>
           </div>
