@@ -16,7 +16,7 @@ function Header() {
 
   return (
     <header>
-      <div className="navbar" id='home'>
+      <div className="navbar">
         <div className="navbar-logo">
           <h1>SAKSHI</h1>
         </div>
